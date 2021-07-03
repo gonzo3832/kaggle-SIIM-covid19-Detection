@@ -1,6 +1,8 @@
 test
 
+
 conflict
+こんこん！
 
 hogehoge
 
@@ -11,3 +13,7 @@ hogehoge
 git commit --amend
 
 hogeeeee
+
+
+
+
