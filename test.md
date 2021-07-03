@@ -1,5 +1,7 @@
 test
 
+こんこん！
+
 hogehoge
 
 
@@ -7,4 +9,8 @@ hogehoge
 
 
 git commit --amend
+
+
+
+
 
