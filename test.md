@@ -8,3 +8,4 @@ hogehoge
 
 git commit --amend
 
+hogeeeee
