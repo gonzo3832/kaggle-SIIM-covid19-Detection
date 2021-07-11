@@ -21,3 +21,4 @@ sys/
 tmp/
 usr/
 var/
+.DS_Store
